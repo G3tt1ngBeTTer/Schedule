@@ -1,0 +1,56 @@
+Day 0
+Para 0: Group-Teacher: 1-60 Group-Teacher: 2-65 Group-Teacher: 3-61 
+Para 1: Group-Teacher: 1-23 Group-Teacher: 2-64 Group-Teacher: 3-62 
+Para 2: Group-Teacher: 1-63 Group-Teacher: 3-64 
+Para 3: Group-Teacher: 1-7 Group-Teacher: 3-54 
+Para 4: 
+Para 5: 
+Para 6: 
+Para 7: 
+Day 1
+Para 0: Group-Teacher: 1-62 Group-Teacher: 2-49 Group-Teacher: 3-10 
+Para 1: Group-Teacher: 1-62 Group-Teacher: 2-49 Group-Teacher: 3-10 
+Para 2: Group-Teacher: 1-54 Group-Teacher: 2-53 Group-Teacher: 3-38 
+Para 3: Group-Teacher: 2-38 Group-Teacher: 3-18 
+Para 4: Group-Teacher: 2-18 
+Para 5: 
+Para 6: 
+Para 7: 
+Day 2
+Para 0: Group-Teacher: 1-12 Group-Teacher: 2-66 
+Para 1: Group-Teacher: 1-7 Group-Teacher: 2-18 
+Para 2: Group-Teacher: 2-7 
+Para 3: 
+Para 4: 
+Para 5: 
+Para 6: 
+Para 7: 
+Day 3
+Para 0: Group-Teacher: 1-12 Group-Teacher: 2-61 Group-Teacher: 3-63 
+Para 1: Group-Teacher: 1-38 Group-Teacher: 2-53 Group-Teacher: 3-39 
+Para 2: Group-Teacher: 2-53 Group-Teacher: 3-7 
+Para 3: Group-Teacher: 2-54 
+Para 4: 
+Para 5: 
+Para 6: 
+Para 7: 
+Day 4
+Para 0: Group-Teacher: 1-23 Group-Teacher: 2-62 Group-Teacher: 3-65 
+Para 1: Group-Teacher: 1-39 Group-Teacher: 2-62 Group-Teacher: 3-12 
+Para 2: Group-Teacher: 2-7 Group-Teacher: 3-18 
+Para 3: 
+Para 4: 
+Para 5: 
+Para 6: 
+Para 7: 
+Day 5
+Para 0: Group-Teacher: 1-61 Group-Teacher: 2-39 Group-Teacher: 3-12 
+Para 1: Group-Teacher: 1-23 Group-Teacher: 3-10 
+Para 2: Group-Teacher: 1-18 Group-Teacher: 3-62 
+Para 3: Group-Teacher: 1-18 Group-Teacher: 3-7 
+Para 4: Group-Teacher: 1-64 
+Para 5: 
+Para 6: 
+Para 7: 
+Fitness: 0
+
